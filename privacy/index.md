@@ -1,14 +1,14 @@
 ---
-title: Privacy policy — Autónomo Copiloto
+title: Privacy policy — Autónomo Brújula
 ---
 
-# Privacy policy — Autónomo Copiloto
+# Privacy policy — Autónomo Brújula
 
-_Last updated: 16 September 2026._
+_Last updated: 30 September 2026._
 
 ## The short version
 
-Autónomo Copiloto keeps everything you enter on your phone. It has no
+Autónomo Brújula keeps everything you enter on your phone. It has no
 network access, no account, no analytics and no advertising. Nothing you
 type is sent to the developer or to anyone else unless you yourself share
 a file.
@@ -43,7 +43,7 @@ the device that way.
 - **Borrador PDFs**: "Share PDF" opens the same share sheet with the draft
   form, which carries the figures and the declarant boxes.
 - **Safety-net copy (optional, Android 10+)**: if you turn it on in
-  Settings, the app writes `Documents/AutonomoCopiloto/autonomo_backup.json`
+  Settings, the app writes `Documents/AutonomoBrujula/autonomo_backup.json`
   to shared storage every time you leave the app, so the data survives
   removing the app. That file is not encrypted and is visible to any app
   you give file access to. Turning the switch off deletes it.

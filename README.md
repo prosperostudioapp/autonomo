@@ -1,4 +1,4 @@
-# Autónomo Copiloto
+# Autónomo Brújula
 
 A bookkeeping helper for self-employed people (autónomos) in Spain, by Prospero Studio.
 Everything you enter stays on your phone: the app has no network access, no account and no analytics.
