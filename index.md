@@ -1,8 +1,8 @@
 ---
-title: Autónomo Brújula
+title: Autónomo Compass
 ---
 
-# Autónomo Brújula
+# Autónomo Compass
 
 A bookkeeping helper for self-employed people in Spain, by Prospero Studio.
 
