@@ -4,14 +4,14 @@ title: Privacy policy — Autónomo Compass
 
 # Privacy policy — Autónomo Compass
 
-_Last updated: 30 September 2026._
+_Last updated: 23 November 2026._
 
 ## The short version
 
 Autónomo Compass keeps everything you enter on your phone. It has no
 network access, no account, no analytics and no advertising. Nothing you
 type is sent to the developer or to anyone else unless you yourself share
-a file.
+a file or send the developer an email.
 
 ## What the app stores, and where
 
@@ -52,6 +52,19 @@ the device that way.
   the system copies this app's data directly from one phone to the other.
   It does not pass through a server. The copy kept for undoing a restore
   is not moved.
+- **Feedback**: "Send feedback" in Settings, and "Something wrong?" on the
+  RETA tab, in the calendar and on the draft preview, open your own mail
+  app with an email to the developer's address. The app puts in it only
+  the type of feedback, the app and Android versions, the app's language,
+  the screen and, from a draft, the modelo and period: no ledger entries,
+  amounts, notes, and no NIF or name from your profile. Like any email,
+  it also carries your email address and the sender name set in your
+  mail app, and whatever you write in it. You see it before sending and
+  can change it; nothing is sent unless you send it from your mail app.
+  The email reaches the developer's Gmail mailbox (a Google service) and
+  is kept there. The developer uses these emails only to reply to you and
+  to fix the app, does not pass them on to anyone else, and deletes them
+  on request.
 
 ## Permissions
 
@@ -74,8 +87,10 @@ No internet permission is requested, so the app cannot transmit anything.
 - Files you exported or shared, and the data copied to a new phone, are
   under your control, wherever they are.
 
-No server holds any of your data, so there is nothing to request from
-the developer.
+No server holds the data you enter in the app, so there is nothing to
+request from the developer about it. Emails you send as feedback are kept
+in the developer's Gmail mailbox (a Google service) and are deleted on
+request: write to the contact address below.
 
 ## Children
 
